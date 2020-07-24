@@ -21,5 +21,13 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "serastrip": {
+      "tags": []
+    },
+    "serastrip-e2e": {
+      "tags": [],
+      "implicitDependencies": ["serastrip"]
+    }
+  }
 }
